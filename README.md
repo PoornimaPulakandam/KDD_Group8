@@ -1,10 +1,10 @@
 # KDD_Group8
 # US-Accidents Severity Data Analysis
 # Team Members:
-Ivy Pham
-Joseph Antony Bala Vineesh Reddy Pentareddy
-Poornima Pulakandam
-Srujana Patil
+* Ivy Pham
+* Joseph Antony Bala Vineesh Reddy Pentareddy
+* Poornima Pulakandam
+* Srujana Patil
 
 # Team Name: Group 8
 
