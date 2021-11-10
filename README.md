@@ -1,5 +1,5 @@
 # KDD_Group8
-# US-Accidents Severity Data Analysis
+# US-Accidents Data Analysis
 # Team Members:
 * Ivy Pham
 * Joseph Antony Bala Vineesh Reddy Pentareddy
