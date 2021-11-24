@@ -43,7 +43,5 @@ US Accident Dataset has a few variables which are categorical  mention about the
 5. Number of accidents of a state as compared to its adjacent states?
 6. Factors that effect accident severity.
 # Future Work:
-This Analysis can be used to predict how climatic conditions are impacting the road accidents so that we can reduce the severity in advance. We can also predict the most accident prone areas state wide.
-
-
-
+We have analysed regarding the most accident prone states and predicted how climatic conditions are impacting the road accidents so that we can reduce the severity in advance. 
+In Future Work we continue to work on how much percent of accidents takes place at different spots and particular climatic conditions impact on road accidents
