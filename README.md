@@ -35,6 +35,13 @@ US Accident Dataset has a few variables which are categorical  mention about the
 * Wind_Speed(mph) - Shows wind speed (in miles per hour).
 * Precipitation(in) - Shows precipitation amount in inches, if there is any.
 * Weather_Condition - Shows the weather condition (rain, snow, thunderstorm, fog, etc.).
+# Data Understanding and Exploration:
+## Data Understanding from above Graphs
+    1)Most of the US Accidents i.e 0.8 have the severity 2 and followed by severity 4.
+    2)Major percentage of  the US Accidents  are occured at traffic signals, Crossing, Station, Stop and Amenity. The least percentage of  accidents are occured at Bump,           Roundabout, Railway, No-Exit, Junction
+    3)Most percentage of accidents are occured in California followed by florida.
+    4)Accidents are occurred in clear weather conditions(52.9%) and followed by cloudy weather 18.7% which means that weather       conditions effects very less.
+    5) Weekday Accidents are higher in number compared to weekends.
 # Research Questions:
 1. Research on how weather condition  impacts on the accident occurence and time affect visibility which results in the number of accidents?
 2. Is the accident rates in different states higher due to different Weather Condition?
